@@ -12,7 +12,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/dtoxvanilla1991/kuDoodle-Online-Store><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dtoxvanilla1991/kuDoodle-Online-Store"><strong>Explore the docs »</strong></a>
     <!-- <br />
     <br />
     <a href="">View Demo</a>
