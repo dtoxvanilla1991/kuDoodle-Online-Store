@@ -8,7 +8,7 @@
 <br />
 <div align="center">
 
-  <h1 align="center">Insurance Quote SPA</h1>
+  <h1 align="center">Online Store kuDoodle</h1>
 
   <p align="center">
     <br />
