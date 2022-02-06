@@ -1,70 +1,102 @@
-# Getting Started with Create React App
+<div id="top"></div>
+<div align="right">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-## Available Scripts
+</div>
+<!-- PROJECT NAME -->
+<br />
+<div align="center">
 
-In the project directory, you can run:
+  <h1 align="center">Insurance Quote SPA</h1>
 
-### `npm start`
+  <p align="center">
+    <br />
+    <a href="https://github.com/dtoxvanilla1991/kuDoodle-Online-Store><strong>Explore the docs »</strong></a>
+    <!-- <br />
+    <br />
+    <a href="">View Demo</a>
+    ·
+    <a href="">Report Bug</a>
+    ·
+    <a href="">Request Feature</a>
+  </p> -->
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<!-- ABOUT THE PROJECT -->
 
-### `npm test`
+## About The App
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+React.js app SPA, featuring an online e-Commerce store "KuDoodle". This section is a categories and general selection page, where visitors and potential clients are able to take a close look at the products in stock and browse their features, prices, options and more.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Built With
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Frameworks/libraries/languages used:
 
-### `npm run eject`
+- HTML, CSS, JS
+- [React.js](https://reactjs.org/)
+- [Node.js](https://nodejs.org/en/)
+- [React Redux](https://react-redux.js.org/)
+- [Bootstrap Navbar](https://getbootstrap.com/docs/4.0/components/navbar/)
+- [CodePen.io](https://codepen.io/DToxVanilla)
+- [Styled Components](https://styled-components.com/docs/basics)
+- [React Fetch Hook](https://www.npmjs.com/package/react-fetch-hook)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<!-- GETTING STARTED -->
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Getting Started
 
-## Learn More
+To get a local copy up and running follow these simple steps after downloading the files from the Github.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Prerequisites
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To run this SPA, install it locally using npm and run mock API on a separate terminal:
 
-### Code Splitting
+```
+$ npm install
+$ npm run jsondb
+$ npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<!-- CONTACT -->
 
-### Analyzing the Bundle Size
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Yuri Avdiyevski - [@dtoxvanilla](https://twitter.com/dtoxvanilla) - dtoxvanilla@gmail.com
 
-### Making a Progressive Web App
+Project Link: [kuDoodle Online Store SPA Files](https://github.com/dtoxvanilla1991/kuDoodle-Online-Store)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<!-- Deployed Project Link: [Live Cube Project]() -->
 
-### Advanced Configuration
+<!-- **NOTE**: Live project is in the FREE Heroku tier so please allow a few second for the site to load as Heroku puts them to hybernate since they are not used too often. -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/yuri-avdijevski
